@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>403 Forbidden | CSS Lecture</title>
+<meta name="description" content="アクセス権限がありません...">
+<meta name="keywords" content="CSS,html5">
+<link rel="shortcut icon" href="/common/images/ico/favicon.ico">
+<link rel="stylesheet" href="/common/css/default.css" media="screen, tv, projection">
+<link rel="stylesheet" href="/common/css/module.css" media="screen, tv, projection">
+<link rel="stylesheet" href="/common/css/style.css" media="screen, tv, projection">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js"></script>
+<script src="/common/js/modernizr.js"></script>
+<script src="/common/js/validate.js"></script>
+<script src="/common/js/common.js" charset="utf-8"></script>
+<script src="/common/js/lazyload.js" charset="utf-8"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds2.feedburner.com/css-lecture/">
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.css-lecture.com/atom.xml"> 
+<link rel="alternate" type="application/rsd+xml" title="RSD" href="http://www.css-lecture.com/rsd.xml">
+<link rel="alternate" type="application/rss+xml" title="ROR" href="http://www.css-lecture.com/sitemap.xml">
+</head>
+
+<body id="cssLecture" class="pageBody">
+
+<div id="page">
+<header id="header">
+<hgroup>
+<h1><a href="/"><img src="/common/images/logo.png" alt="CSS Lecture" width="155" height="63"></a></h1>
+<h2>CSS3、HTML5、Movable Type<br>
+その他Webサイト制作に関する役立つ情報を掲載します！</h2>
+</hgroup>
+
+<div class="utility">
+<form method="get" action="http://www.css-lecture.com/mt5/mt-search.cgi">
+<p id="searchArea"><input type="hidden" name="IncludeBlogs" value="2"><input type="hidden" name="limit" value="10">
+<input type="text" class="searchBox" placeholder="Site Search" id="search" name="search" value="">
+<input type="image" src="/common/images/search.gif" alt="検索" class="btn submit" value="検索"></p>
+</form>
+<!--/ .utility--></div>
+
+<aside>
+<p class="about"><a href="http://twitter.com/#!/csslecture/"><img src="/common/images/twitter.png" alt="Twitter" class="btn" width="76" height="17"></a><br>
+<a href="http://feeds2.feedburner.com/css-lecture/"><img src="http://feeds2.feedburner.com/~fc/css-lecture?bg=121212&amp;fg=FFFFFF&amp;anim=0" alt="RSS Feed by FeedBurner" height="26" width="88"></a></p>
+<p class="winp"><img src="/common/images/winp.png" alt="株式会社Winp" width="121" height="46"></p>
+</aside>
+<!-- / #header --></header>
+
+<div id="contents"><div class="inner">
+
+<div id="main">
+
+<nav id="globalNavi"><ul>
+<li><a href="/"><img src="/common/images/top.jpg" alt="TOP" class="btn" width="60" height="32"></a></li>
+<li><a href="/log/"><img src="/common/images/arcgive.jpg" alt="ARCHIVE" class="btn" width="80" height="32"></a></li>
+<li><a href="/contact/"><img src="/common/images/contact.jpg" alt="CONTACT" class="btn" width="80" height="32"></a></li>
+<!--/ #globalNavi--></ul></nav>
+<article>
+<section>
+<header>
+<h1>403 Forbidden</h1>
+<ul class="pankuzu">
+<li><a href="/">PAGE TOP</a></li>
+</ul>
+</header>
+
+<div class="entryBody">
+<p class="attention">アクセス権限がありません</p>
+<!--/ .entryBody--></div>
+
+</section>
+
+<aside class="ads2">
+<p><span><script>
+google_ad_client = "pub-0676500315134347";
+google_ad_slot = "3788465986";
+google_ad_width = 468;
+google_ad_height = 60;
+</script>
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></span></p> 
+</aside></article>
+
+<section id="comments">
+<div id="commentForm">
+<form method="post" action="http://www.css-lecture.com/mt5/mt-comments.cgi" name="comments-form" id="comments-form">
+<h1>Contact Form</h1> 
+<dl id="post">
+<dt><label for="author">Name</label><em>※</em></dt>
+<dd><input type="text" id="author" name="author" placeholder="Your name" class="required" value=""></dd>
+<dt><label for="email">Email</label><em>※</em></dt>
+<dd><input type="text" id="email" name="email" placeholder="Your email" class="required" value=""></dd>
+<dt>&nbsp;</dt>
+<dd><input type="checkbox" id="comment-bake-cookie" name="bakecookie" onclick="mtRememberMeOnClick(this)" value="1" accesskey="r"> <label for="comment-bake-cookie">ログイン情報を記憶</label></dd>
+
+<dt><label for="url">URL</label></dt>
+<dd><input type="text" id="url" name="url" placeholder="http://" value=""></dd>
+<dt><label for="text">Comment</label><em>※</em></dt>
+<dd><textarea id="text" name="text" placeholder="Your comments" class="required"></textarea></dd>
+
+<dt>Captcha<em>※</em></dt>
+<dd><div class="label"><label for="captcha_code">Captcha:</label></div><div class="field"><input type="hidden" name="token" value="sZg52waoVAByOpAqzl9HTrv3b3Sd5hwvUNxUdhEK" /><img src="/mt5/mt-comments.cgi/captcha/1/sZg52waoVAByOpAqzl9HTrv3b3Sd5hwvUNxUdhEK" width="150" height="35" /><br /><input name="captcha_code" id="captcha_code" value="" autocomplete="off" /><p>画像の中に見える文字を入力してください。</p></div></dd>
+
+</dl>
+<input type="hidden" name="static" value="1">
+<input type="hidden" name="entry_id" value="1">
+<input type="hidden" name="__lang" value="ja">
+
+<p class="menu"><input type="image" src="/common/images/contact_b.jpg" alt="内容を送信する" name="post" id="comment-submit" class="btn" value="コメントを投稿する"></p>
+</form><!--/ #commentForm--></div>
+</section>
+
+<p class="pageTop"><a href="#page"><img src="/common/images/pagetop.png" alt="page top へ" width="100" height="25"></a></p>
+<!-- / #main --></div>
+
+<div id="side">
+
+<section class="bnr">
+<h1><img src="/common/images/sponsor.png" alt="Sponsor" width="310" height="21"></h1>
+<ul>
+<li><a href="http://px.a8.net/svt/ejp?a8mat=1BTMEG+1MCI2A+348+U0169"><img src="/common/images/bnr/heteml2.gif" alt="heteml" width="125" height="125"></a></li>
+<li><a href="http://px.a8.net/svt/ejp?a8mat=1HRKVA+BAN2YA+PEG+61C2P"><img src="/common/images/bnr/mt.gif" alt="Movable Type" width="125" height="125"></a></li>
+<!--/ .bnr--></ul>
+</section>
+<section class="category">
+<h1><img src="/common/images/category.png" alt="Category" width="310" height="21"></h1>
+<nav><ul>
+
+<li><a href="/log/css/">CSS リファレンス</a> [39]</li>
+
+<li><a href="/log/web-design/">Webデザイン</a> [34]</li>
+
+<li><a href="/log/css3/">CSS3</a> [9]</li>
+
+<li><a href="/log/icon/">アイコン素材</a> [32]</li>
+
+<li><a href="/log/css-beginner/">CSS ビギナー向け</a> [21]</li>
+
+<li><a href="/log/photoshop/">Photoshop</a> [8]</li>
+
+<li><a href="/log/xhtml/">(X)HTML</a> [9]</li>
+
+<li><a href="/log/web/">Web関連情報</a> [26]</li>
+
+<li><a href="/log/javascript/">Javascript</a> [57]</li>
+
+<li><a href="/log/convenience/">便利な情報</a> [13]</li>
+
+<li><a href="/log/movable-type/">Movable Type</a> [21]</li>
+
+<li><a href="/log/info/">お知らせ</a> [18]</li>
+
+<li><a href="/log/flash/">Flash</a> [6]</li>
+
+<li><a href="/log/zakki/">雑記</a> [7]</li>
+
+<li><a href="/log/php/">PHP</a> [3]</li>
+
+<li><a href="/log/book-soft/">お勧め書籍、ソフト</a> [11]</li>
+
+</ul></nav>
+<!--/ .category--></section>
+
+<section class="recent">
+<h1><img src="/common/images/recent-article.png" alt="Recent Article" width="310" height="21"></h1>
+<dl> 
+<dt>2011 04-05</dt>
+<dd><a href="http://www.css-lecture.com/log/web-design/iphone-design.html">iPhone スマートフォンサイトのデザインのまとめ</a></dd>
+
+<dt>2011 04-04</dt>
+<dd><a href="http://www.css-lecture.com/log/info/for-smart-phone.html">スマートフォン対応にしてみました</a></dd>
+
+<dt>2011 04-01</dt>
+<dd><a href="http://www.css-lecture.com/log/css3/css3-opacity-rgba.html">CSS3 要素を透明に出来る Opacity と RGBa の使い方</a></dd>
+
+<dt>2011 03-31</dt>
+<dd><a href="http://www.css-lecture.com/log/info/20110331.html">サイトリニューアルしました</a></dd>
+
+<dt>2010 12-01</dt>
+<dd><a href="http://www.css-lecture.com/log/css3/css3-button-sample.html">CSS3 でボタンを作る為のテクニック、サンプル集</a></dd>
+
+<dt>2010 11-24</dt>
+<dd><a href="http://www.css-lecture.com/log/web-design/rich-beautiful-fotter-design.html">綺麗でリッチなフッターデザイン集のまとめ 60</a></dd>
+
+<dt>2010 11-18</dt>
+<dd><a href="http://www.css-lecture.com/log/web-design/green-black-web-design.html">緑と黒色を使った Webデザインのサイト 25</a></dd>
+
+<dt>2010 11-10</dt>
+<dd><a href="http://www.css-lecture.com/log/web/convenient-excel-knowledge.html">知っておいた方が便利なエクセルの知識</a></dd>
+</dl>
+</section>
+
+<section class="comments">
+<h1><img src="/common/images/recent-comments.png" alt="Recent Comments" width="310" height="21"></h1>
+<ul>
+<li><a href="http://www.css-lecture.com/log/javascript/011.html#comment-783">初めまして！こちらのサイトを役立てさせて いただい</a><span>kei</span></li>
+
+<li><a href="http://www.css-lecture.com/log/css/037.html#comment-776">ものすごい分かりやすいです！ positionの疑</a><span>@shun_jp</span></li>
+
+<li><a href="http://www.css-lecture.com/log/javascript/011.html#comment-769">初めまして、 助言をいただきたいのですが、ものすご</a><span>PON</span></li>
+
+<li><a href="http://www.css-lecture.com/log/css3/css3-text-shadow-box-shadow.html#comment-759">とても分かりやすい説明です。 ちなみに上記の事例は</a><span>ダニエル</span></li>
+
+<li><a href="http://www.css-lecture.com/log/css/011.html#comment-639">ありがとうございます。貴殿は、とても詳しいですね。</a><span>santa</span></li>
+
+<li><a href="http://www.css-lecture.com/log/css/011.html#comment-638">santaさん 自由に使って頂いて構いませんよ！</a><span>MIYA</span></li>
+
+<li><a href="http://www.css-lecture.com/log/css/011.html#comment-637">すみません、こちら使わせていただいていただいて、よ</a><span>santa</span></li>
+</ul>
+</section>
+
+<section class="archives">
+<h1><img src="/common/images/archive.png" alt="Archive" width="160" height="21"></h1>
+<dl>
+<dt>2011&#24180;</dt>
+<dd><ul>
+        <li><a href="http://www.css-lecture.com/2011/04/index.php">2011年4月</a> [3]</li>
+<li><a href="http://www.css-lecture.com/2011/03/index.php">2011年3月</a> [1]</li>
+</ul></dd>
+<dt>2010&#24180;</dt>
+<dd><ul>
+        <li><a href="http://www.css-lecture.com/2010/12/index.php">2010年12月</a> [1]</li>
+        <li><a href="http://www.css-lecture.com/2010/11/index.php">2010年11月</a> [3]</li>
+        <li><a href="http://www.css-lecture.com/2010/10/index.php">2010年10月</a> [2]</li>
+        <li><a href="http://www.css-lecture.com/2010/03/index.php">2010年3月</a> [7]</li>
+        <li><a href="http://www.css-lecture.com/2010/02/index.php">2010年2月</a> [2]</li>
+<li><a href="http://www.css-lecture.com/2010/01/index.php">2010年1月</a> [1]</li>
+</ul></dd>
+<dt>2009&#24180;</dt>
+<dd><ul>
+        <li><a href="http://www.css-lecture.com/2009/11/index.php">2009年11月</a> [5]</li>
+        <li><a href="http://www.css-lecture.com/2009/10/index.php">2009年10月</a> [6]</li>
+        <li><a href="http://www.css-lecture.com/2009/09/index.php">2009年9月</a> [9]</li>
+        <li><a href="http://www.css-lecture.com/2009/08/index.php">2009年8月</a> [3]</li>
+        <li><a href="http://www.css-lecture.com/2009/07/index.php">2009年7月</a> [9]</li>
+        <li><a href="http://www.css-lecture.com/2009/06/index.php">2009年6月</a> [21]</li>
+        <li><a href="http://www.css-lecture.com/2009/05/index.php">2009年5月</a> [10]</li>
+        <li><a href="http://www.css-lecture.com/2009/04/index.php">2009年4月</a> [14]</li>
+        <li><a href="http://www.css-lecture.com/2009/03/index.php">2009年3月</a> [16]</li>
+        <li><a href="http://www.css-lecture.com/2009/02/index.php">2009年2月</a> [14]</li>
+<li><a href="http://www.css-lecture.com/2009/01/index.php">2009年1月</a> [13]</li>
+</ul></dd>
+<dt>2008&#24180;</dt>
+<dd><ul>
+        <li><a href="http://www.css-lecture.com/2008/12/index.php">2008年12月</a> [10]</li>
+        <li><a href="http://www.css-lecture.com/2008/11/index.php">2008年11月</a> [13]</li>
+        <li><a href="http://www.css-lecture.com/2008/10/index.php">2008年10月</a> [15]</li>
+        <li><a href="http://www.css-lecture.com/2008/09/index.php">2008年9月</a> [14]</li>
+        <li><a href="http://www.css-lecture.com/2008/08/index.php">2008年8月</a> [15]</li>
+        <li><a href="http://www.css-lecture.com/2008/07/index.php">2008年7月</a> [14]</li>
+        <li><a href="http://www.css-lecture.com/2008/06/index.php">2008年6月</a> [16]</li>
+        <li><a href="http://www.css-lecture.com/2008/05/index.php">2008年5月</a> [21]</li>
+        <li><a href="http://www.css-lecture.com/2008/04/index.php">2008年4月</a> [19]</li>
+        <li><a href="http://www.css-lecture.com/2008/03/index.php">2008年3月</a> [19]</li>
+</ul></dd>
+</dl>
+<script>
+//<![CDATA[ 
+        FoldNavigation('archive2008','off');
+        FoldNavigation('archive2009','off');
+        FoldNavigation('archive2010','off');
+        FoldNavigation('archive2011','off',false);
+
+        FoldNavigation('archive2008','off');
+        FoldNavigation('archive2009','off');
+        FoldNavigation('archive2010','off');
+        FoldNavigation('archive2011','off',false);
+//]]>
+</script>
+</section>
+
+<aside class="about">
+<p><a href="http://px.a8.net/svt/ejp?a8mat=1TOS7U+E9T3UA+12MU+614CX"><img src="/common/images/bnr/rapidsite.gif" alt="ラピッドサイト" width="120" height="600"></a></p>
+</aside>
+<aside class="item">
+<h1><img src="/common/images/parts.png" alt="Blog Parts" width="160" height="21"></h1>
+<p><a href="http://awasete.com/show.phtml?u=http%3A%2F%2Fwww.css-lecture.com%2F"><img src="http://img.awasete.com/image.phtml?u=http%3A%2F%2Fwww.css-lecture.com%2F" width="160" height="140" alt="あわせて読みたいブログパーツ"></a></p> 
+</aside><!-- / #side --></div>
+<!-- / #contents --></div></div>
+
+
+<footer id="footer"><div class="inner">
+
+<div class="inside">
+<aside>
+<p class="imgL"><img src="/common/images/miya.jpg" alt="MIYA" width="84" height="84"></p>
+<dl>
+<dt>Name : MIYA</dt>
+<dd>京都出身。京都在住</dd>
+<dt>Contact</dt>
+<dd><a href="/contact/">miya@css-lecture.com</a></dd>
+</dl>
+<p>CSS Lectureの管理人。京都在住27歳。株式会社Winp を相方と立ち上げほそぼそと暮らしております。</p>
+<ul>
+<li class="twitter"><a href="http://twitter.com/#!/csslecture/">@csslecture</a></li>
+<li class="feed"><a href="http://feeds2.feedburner.com/css-lecture/">feeds2.feedburner.com/css-lecture/</a></li>
+</ul>
+</aside>
+<section class="popular">
+<h1>Popular Article</h1>
+<dl> 
+<dt><a href="http://b.hatena.ne.jp/entry/http://www.css-lecture.com/log/css/css-huck.html" class="hatena-bookmark-button" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></dt> 
+<dd><a href="/log/css/css-huck.html"><span>2010 10-08</span><br />最近のブラウザ使えそうなCSSハックの一覧</a></dd> 
+ 
+<dt><a href="http://b.hatena.ne.jp/entry/http://www.css-lecture.com/log/css/coding-css-technique.html" class="hatena-bookmark-button" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></dt> 
+<dd><a href="/log/css/coding-css-technique.html"><span>2009 11-16</span><br />コーディングするのが楽になるかも？と思うCSSテクニックのまとめ</a></dd> 
+ 
+<dt><a href="http://b.hatena.ne.jp/entry/http://www.css-lecture.com/log/css3/css3-layout-box.html" class="hatena-bookmark-button" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></dt> 
+<dd><a href="/log/css3/css3-layout-box.html"><span>2010 03-04</span><br />CSS3 でのレイアウトで使える box 系プロパティのまとめ</a></dd> 
+ 
+<dt><a href="http://b.hatena.ne.jp/entry/http://www.css-lecture.com/log/web-design/rich-beautiful-fotter-design.html" class="hatena-bookmark-button" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></dt> 
+<dd><a href="/log/web-design/rich-beautiful-fotter-design.html"><span>2010 11-24</span><br />綺麗でリッチなフッターデザイン集のまとめ 60</a></dd> 
+ 
+<dt><a href="http://b.hatena.ne.jp/entry/http://www.css-lecture.com/log/css3/css3-button-sample.html" class="hatena-bookmark-button" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></dt> 
+<dd><a href="/log/css3/css3-button-sample.html"><span>2010 12-01</span><br />CSS3 でボタンを作る為のテクニック、サンプル集</a></dd> 
+</dl> 
+</section>
+<section class="twitter">
+<h1>Tweet ...</h1>
+<ul id="twitter_update_list"><li>読み込み中 ... </li></ul>
+<script src="http://twitter.com/javascripts/blogger.js"></script>
+<script src="http://twitter.com/statuses/user_timeline/csslecture.json?callback=twitterCallback2&count=3"></script>
+</section><!--/ .inside--></div>
+
+<div class="about">
+<nav><ul>
+<li><a href="/" title="CSS LectureTopページ">Top</a></li>
+<li><a href="/archive/" title="全エントリー一覧">Archive</a></li>
+<li><a href="/favorite/" title="お気に入り Favorite">Favorite</a></li>
+<li><a href="/contact/" title="管理者の連絡先">Contact</a></li>
+</ul></nav>
+
+<p class="copyright"><small>Copyright &copy; 2008-2020 <a href="http://www.css-lecture.com/" title="CSS Lecture">CSS Lecture</a> All rights reserved.</small></p>
+<!--/ .about--></div><!-- / footer --></div></footer>
+
+<script src="/common/js/ga.js"></script>
+<!-- / #page --></div>
+
+</body>
+</html>
